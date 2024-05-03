@@ -7,4 +7,4 @@ idk coding
 ## bro tf is this README.md
 i know
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=falwe&layout=compact&theme=buefy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=falwe&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
